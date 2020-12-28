@@ -23,6 +23,3 @@ class Theme:
 
     def get_theme_data(self, element):
         return self.language[element]
-
-test = Theme('dark')
-print(test.get_theme_data('backgroundColor'))
