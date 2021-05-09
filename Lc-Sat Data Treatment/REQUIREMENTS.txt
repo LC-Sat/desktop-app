@@ -1,0 +1,11 @@
+tkinter
+opencv
+numpy
+matplotlib
+json
+pickle
+folium
+webbrowser
+pyAesCrypt
+shutil
+zipfile

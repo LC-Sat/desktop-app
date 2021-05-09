@@ -1,0 +1,10 @@
+{
+	"FPS": 10,
+	"RESOLUTION": [8, 8],
+	"FINAL_RESOLUTION": [440, 440],
+	"MIN_TEMP": -10,
+	"MAX_TEMP": 50,
+	"MIN_COLOR": [0, 0, 255],
+	"MOY_COLOR": [0, 255, 0],
+	"MAX_COLOR": [255, 0, 0]
+}

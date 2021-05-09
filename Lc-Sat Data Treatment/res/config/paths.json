@@ -1,0 +1,11 @@
+{
+	"DATA_PATH": "/res/config/",
+	"SETTINGS_PATH": "/res/config/settings.json",
+	"CONST_PATH": "/res/config/app_const.json",
+	"THERMAL_CONFIG_PATH": "/res/config/thermal_camera_config.json",
+	"DATA_CONFIG_PATH": "/res/config/data_config.json",
+	"LANG_PATH": "/res/i18n/",
+	"IMG_PATH": "/res/img/",
+	"THEME_PATH": "/res/themes/",
+	"FILES_DATA": "/files/"
+}

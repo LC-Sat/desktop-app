@@ -1,0 +1,42 @@
+{
+	"temperature": {
+		"fps": 10,
+		"name": "Temperature",
+		"unit": "Celsius"
+	},
+	"pression": {
+		"fps": 10,
+		"name": "Pression",
+		"unit": "hPa"
+	},
+	"altitude": {
+		"fps": 10,
+		"name": "Altitude",
+		"unit": "m"
+	},
+	"accelerometre": {
+		"fps": 10,
+		"name": "Acceleration",
+		"unit": "m/s²"
+	},
+	"satellite": {
+		"fps": 10,
+		"name": "Satellite",
+		"unit": ""
+	},
+	"quality": {
+		"fps": 10,
+		"name": "Quality",
+		"unit": ""
+	},
+	"speed": {
+		"fps": 10,
+		"name": "Speed",
+		"unit": "m.s"
+	},
+	"humidity": {
+		"fps": 10,
+		"name": "humidity",
+		"unit": "%"
+	}
+}
